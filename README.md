@@ -147,30 +147,30 @@ Pull request [#1834 Fix: Google Maps Doc page](https://github.com/ionic-team/ion
   - [x] setCameraZoom (@wf9a5m75)
   - [x] setCameraTilt (@wf9a5m75)
   - [x] setCameraBearing (@wf9a5m75)
-  - [ ] panBy (@quanganh206)
+  - [x] panBy (@quanganh206)
   - [x] getVisibleRegion (@wf9a5m75)
-  - [ ] getMyLocation (@quanganh206)
-  - [ ] setClickable (@quanganh206)
+  - [x] getMyLocation (@quanganh206)
+  - [x] setClickable (@quanganh206)
   - [x] remove (@wf9a5m75)
   - [x] clear (@wf9a5m75)
   - [x] fromLatLngToPoint (@wf9a5m75)
   - [x] fromPointToLatLng (@wf9a5m75)
-  - [ ] setMyLocationEnabled
-  - [ ] getFocusedBuilding
-  - [ ] setIndoorEnabled
-  - [ ] setTrafficEnabled
-  - [ ] setCompassEnabled
-  - [ ] setAllGesturesEnabled
-  - [ ] setVisible
-  - [ ] setPadding
-  - [ ] setOptions
-  - [ ] toDataURL
-  - [ ] MAP_CLICK
-  - [ ] MAP_LONG_CLICK
-  - [ ] MY_LOCATION_BUTTON_CLICK
-  - [ ] CAMERA_EVENTS
-  - [ ] MAP_DRAG_EVENTS
-  - [ ] MAP_READY
+  - [x] setMyLocationEnabled (@wf9a5m75)
+  - [x] getFocusedBuilding (@wf9a5m75)
+  - [x] setIndoorEnabled (@wf9a5m75)
+  - [ ] setTrafficEnabled (@wf9a5m75)
+  - [ ] setCompassEnabled (@wf9a5m75)
+  - [ ] setAllGesturesEnabled (@wf9a5m75)
+  - [ ] setVisible (@wf9a5m75)
+  - [ ] setPadding (@wf9a5m75)
+  - [ ] setOptions (@wf9a5m75)
+  - [ ] toDataURL (@wf9a5m75)
+  - [ ] MAP_CLICK (@wf9a5m75)
+  - [ ] MAP_LONG_CLICK (@wf9a5m75)
+  - [ ] MY_LOCATION_BUTTON_CLICK (@wf9a5m75)
+  - [ ] CAMERA_EVENTS (@wf9a5m75)
+  - [ ] MAP_DRAG_EVENTS (@wf9a5m75)
+  - [ ] MAP_READY (@wf9a5m75)
 
 - [ ] Marker
   - [x] map.addMarker
@@ -207,8 +207,8 @@ Pull request [#1834 Fix: Google Maps Doc page](https://github.com/ionic-team/ion
   - [ ] remove
   - [ ] CIRCLE_CLICK
 
-- [ ] Polyline
-  - [ ] map.addPolyline (@quanganh206)
+- [-] Polyline
+  - [x] map.addPolyline (@quanganh206)
   - [ ] setPoints
   - [ ] getPoints
   - [ ] setGeodesic

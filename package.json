@@ -29,7 +29,7 @@
         "cordova-ios": "^4.4.0",
         "cordova-plugin-console": "^1.0.7",
         "cordova-plugin-device": "^1.1.6",
-        "cordova-plugin-googlemaps": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps",
+        "cordova-plugin-googlemaps": "https://github.com/mapsplugin/cordova-plugin-googlemaps#multiple_maps",
         "cordova-plugin-googlemaps-sdk": "https://github.com/mapsplugin/cordova-plugin-googlemaps-sdk",
         "cordova-plugin-splashscreen": "^4.0.3",
         "cordova-plugin-statusbar": "^2.2.3",
